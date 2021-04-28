@@ -24,7 +24,7 @@ export default {
   color: white;
   margin-top: 60px;
 }
-*{
+body{
   background: #2A2441;
 }
 </style>
