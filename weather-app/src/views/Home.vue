@@ -37,6 +37,7 @@
     border:none;
     font-size: 30px;
     border-bottom: 2px solid white;
+    background-color: #2A2441;
 }
 input.search-bar:focus{
    outline-width: 0;
